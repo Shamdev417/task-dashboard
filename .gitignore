@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Database file (local only)
+backend/tasks.json
+backend/tasks.db
+
+# Environment files
+.env
+.env.local
+
+# Build output
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
